@@ -7,4 +7,4 @@ This repository contains "the Composite Walkability Index Web Application", an i
 - Pedestrian Comfort
 - Outdoor Thermal Comfort to provide a comprehensive analysis for citizens and decision-makers.
 
-You can access the composite walkability index for Münster by following linkk <https://muenster-walkability-index.streamlit.app>
+You can access the composite walkability index for Münster by following <https://muenster-walkability-index.streamlit.app>
