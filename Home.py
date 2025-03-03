@@ -16,7 +16,6 @@ st.markdown(
 st.sidebar.markdown("<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>", unsafe_allow_html=True)
 
 # Add logo at the bottom
-st.sidebar.image("Images/ms_logo.png", use_container_width=True)
 st.sidebar.markdown("<p style='text-align:center; font-size:14px;'>© 2024 Walkability Index | Developed by Şafak Çöze</p>", unsafe_allow_html=True)
 
 st.divider()
