@@ -1,2 +1,3 @@
-# MS-Walkability-Index
-Composite walkability index integrated with outdoor thermal comfort indicators for Münster, Germany.
+# Composite Walkability Index. 2024 | Münster, Germany
+
+https://muenster-walkability-index.streamlit.app
